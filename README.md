@@ -65,8 +65,8 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 * Upplýsingar sem skráðar eru í form eru villuprófaðar (_HTML5 validation - required_)
 * Prófanir
   *  Er kóðinn í lagi? Er vefurinn villulaus?  [W3 Markup validation](https://validator.w3.org/)
+
 ### Námsmat
- Nemendur skila verkefninu hver fyrir sig vegna þess að einkunn er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub.
  
 * **10% Útgáfustýring - Undirbúningsvinna**
   *  Greinargerð (í _Readme.md_)
@@ -101,6 +101,7 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
     6. Afurð/vef er skilað á  Github vefsíðu
 
 > Tengli (link) á Github geymslu er skilað í INNU. <br>
+> Ekki er farið yfir gögn sem skilað er með öðrum hætti en hér er lýst að ofan.<br>
 > **Athugið að hópverkefnið er lykilmatsþáttur.**
 
 * _Gangi ykkur vel_  :wink:
