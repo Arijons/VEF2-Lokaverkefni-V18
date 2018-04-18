@@ -66,6 +66,8 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 * Prófanir
   *  Er kóðinn í lagi? Er vefurinn villulaus?  [W3 Markup validation](https://validator.w3.org/)
 
+> Það má samnýta lokaverkefni VEF2 og GAGN1 og hafa eina geymslu fyrir bæði verkefnin. Miðað er við að nemendur séu í sömu tímum í umræddum áföngum. 
+
 ### Námsmat
  
 * **10% Útgáfustýring - Undirbúningsvinna**
