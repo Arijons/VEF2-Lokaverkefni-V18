@@ -1,5 +1,7 @@
-## Innsetning á Ruby
-* Nýjasta útgáfan Ruby+Devkit 
+## Jekyll glósur
+#### CMD > start command with Ruby 
+#### Uppfærsla eða innsetning á Ruby
+* Nýjasta útgáfa Ruby+Devkit (17/4 18)
   * ``` ruby -v ```
   * ``` ruby 2.5.1p57 ```
 
