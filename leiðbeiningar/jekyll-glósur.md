@@ -12,10 +12,10 @@
 
 * að búa til nýjan vef
   * ``` C:\jekyll new testblogg ``` 
-  * ``` C:cd testblogg
+  * ``` C:cd testblogg ``` 
   * ``` C:\testblogg> jekyll serve ``` 
 
-* CSS LEIÐBEININGAR -- minima stílsíður 
+* CSS Jekill leiðbeiningar > **minima** stílsíður 
   * https://github.com/jekyll/minima 
 
 * Góðar leiðbeiningar (nema innsetningin) 
