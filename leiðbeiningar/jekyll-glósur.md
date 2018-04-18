@@ -1,8 +1,7 @@
 ## Jekyll glósur
 #### Notið nýjustu útgáfu Ruby+Devkit
 * CMD > start command with Ruby
-  * ``` ruby -v ```
-  * ``` ruby 2.5.1p57 ```
+  * ``` ruby -v ``` (ruby 2.5.1p57. dags. 17/4 2018)
   * ``` gem install rubygems-update ``` 
   * ``` update_rubygems ``` 
   * ``` gem update --system ``` 
