@@ -3,8 +3,7 @@
 * CMD > start command with Ruby
   * ``` ruby -v ```
   * ``` ruby 2.5.1p57 ```
-
-* gem install rubygems-update
+  * ``` gem install rubygems-update
   * ``` update_rubygems ``` 
   * ``` gem update --system ``` 
 
