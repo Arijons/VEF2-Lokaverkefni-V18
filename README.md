@@ -98,7 +98,7 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
     1. Greinargerð um verkefnið
     2. Hugmyndavinnu (skissur ofl). Skipulag (_layout_)
     3. Texta og myndir sem þið vinnið með.
-    4. Forritunarkóða ss. SCSS/CSS, PhP eða Python kóða
+    4. Forritunarkóða ss. SCSS/CSS og JavaScript
     5. Dagbók og Heimildaskrá 
     6. Afurð/vef er skilað á  Github vefsíðu
 
